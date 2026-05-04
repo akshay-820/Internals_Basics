@@ -1,0 +1,13 @@
+{
+    "search_type": "random",
+    "n_folds": 5,
+    "total_trials": 10,
+    "best_params": {
+        "n_estimators": 150,
+        "max_depth": 3,
+        "learning_rate": 0.05
+    },
+    "best_mae": 5.299681837313216,
+    "best_cv_mae": 5.299681837313216,
+    "parent_run_name": "tuning-skydrop"
+}

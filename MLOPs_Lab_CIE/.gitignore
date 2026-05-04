@@ -1,0 +1,14 @@
+# Environments
+venv/
+.env
+
+# Python artifacts
+__pycache__/
+*.pyc
+
+# MLflow temporary database
+mlflow.db
+
+# OS specific
+.DS_Store
+Thumbs.db

@@ -1,0 +1,16 @@
+{
+    "health_endpoint": "/ping",
+    "predict_endpoint": "/score",
+    "port": 9000,
+    "health_response": {
+        "status": "operational",
+        "service": "SkyDrop API"
+    },
+    "test_input": {
+        "payload_kg": 3.4,
+        "distance_km": 10.0,
+        "wind_speed_kmph": 19.4,
+        "altitude_m": 61.4
+    },
+    "prediction": 38.311953176625416
+}
